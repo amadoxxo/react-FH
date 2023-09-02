@@ -1,0 +1,6 @@
+[submodule "react-gif-expert"]
+	path = react-gif-expert
+	url = https://github.com/amadoxxo/react-gif-expert.git
+[submodule "custom-hooks"]
+	path = custom-hooks
+	url = https://github.com/amadoxxo/custom-hooks.git
